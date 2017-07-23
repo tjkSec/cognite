@@ -1,0 +1,7 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir":"./src/util/js",
+    "removeComments":true
+  }
+}
