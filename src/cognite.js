@@ -40,5 +40,5 @@ Cognite.prototype.nth = nth;
 const x = new Cognite([0, 1, 2, 3, 3, 3, 4, 5]);
 
 document.addEventListener("click", function() {
-  alert(JSON.stringify(x.nth(1)));
+  alert(JSON.stringify(en_ascii('aa')));
 });
